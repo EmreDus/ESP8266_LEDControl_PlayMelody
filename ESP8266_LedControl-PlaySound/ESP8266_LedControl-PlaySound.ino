@@ -5,8 +5,8 @@
 #define greenPin 0    //D3
 #define yellowPin 14  //D5
 
-const char* ssid = "Emre";
-const char* password = "93259325";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 WiFiServer server(80);
 
